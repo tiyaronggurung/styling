@@ -1,0 +1,26 @@
+.first {
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.second {
+    color: rgb(255, 255, 255);
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.third {
+    color: black;
+    text-align: right;
+    background-color: rgb(129, 191, 212);
+    font-family: sans-serif;
+
+}
+.title {
+    color: aqua;
+}
+
